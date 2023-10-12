@@ -1,7 +1,7 @@
 # TrafficInsight
 using YOLOv8, DeepSort, OpenV and Flask
 
-
+* Python 3.11.5
 ## How to run:
 Step 1:
 clone/download the repository the repository
