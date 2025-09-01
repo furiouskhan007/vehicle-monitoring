@@ -7,10 +7,10 @@ Step 1:
 clone/download the repository the repository
 
 Step 2: 
-Download yOLOv8.pt file [here](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt) and place it in root directory
-Also download the weight from
-https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6.
-put that file vehicle-monitoring-main\deep_sort_pytorch\deep_sort\deep\checkpoint\
+Download yOLOv8.pt file [here](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt) and place it in root directory <br>
+Also download the weight from<br>
+https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6.<br>
+put that file vehicle-monitoring-main\deep_sort_pytorch\deep_sort\deep\checkpoint\<br>
 Step 2: 
 Open the terminal in the root directory 
 
