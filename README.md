@@ -45,17 +45,12 @@ Step 4: Run the Application
 python app.py
 ```
 
-### 📊 Example CSV Output
-- ID,Type,Entry Point,Exit Point,Entry Time
-_ 10,car,north,west,10:31.7
+### 🛠️ Tech Stack
 
-```
-🛠️ Tech Stack
-
-### YOLOv8
-DeepSort for object tracking
-OpenCV for computer vision
-Flask for web integration
+- YOLOv8
+- DeepSort for object tracking
+- OpenCV for computer vision
+- Flask for web integration
 
 ### 📌 Notes
 Follow the click sequence strictly: North → South → East → West
