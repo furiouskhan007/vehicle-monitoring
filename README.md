@@ -30,13 +30,12 @@ git clone https://github.com/furiouskhan007/vehicle-monitoring.git
 cd TrafficInsight
 ```
 ### Step 2: Download Weights
-```bash
-Download YOLOv8 weights → yolov8n.pt
-Place it in the root directory 
-Download DeepSort checkpoint weights → Google Drive Link [ckpt.t7](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6)
-Place inside:
-vehicle-monitoring-main/deep_sort_pytorch/deep_sort/deep/checkpoint/
-```
+- Download YOLOv8 weights → yolov8n.pt
+- Place it in the root directory 
+- Download DeepSort checkpoint weights → Google Drive Link [ckpt.t7](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6)
+- Place inside:
+- vehicle-monitoring-main/deep_sort_pytorch/deep_sort/deep/checkpoint/
+
 ### Step 3: Install Dependencies
 ```bash
 pip install -r requirements.txt
@@ -45,20 +44,11 @@ Step 4: Run the Application
 ```bash
 python app.py
 ```
-```bash
-📊 Example CSV Output
-ID,Type,Entry Point,Exit Point,Entry Time
-10,car,north,west,10:31.7
-🧭 ROI Click Guide
-        [ North Entry ⬇️  |  South Exit ⬇️ ]   (Top Side)
-                ┌───────────────────────┐
-                │                       │
-                │                       │
-   West Exit ⬆️ │                       │ East Entry ⬆️
-  (From Bottom) │                       │ (From Bottom)
-                │                       │
-                │                       │
-                └───────────────────────┘
+
+### 📊 Example CSV Output
+- ID,Type,Entry Point,Exit Point,Entry Time
+_ 10,car,north,west,10:31.7
+
 ```
 🛠️ Tech Stack
 
