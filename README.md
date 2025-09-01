@@ -26,14 +26,14 @@ TrafficInsight is a real-time vehicle monitoring system that allows **ROI (Regio
 
 ### Step 1: Clone or Download Repository  
 ```bash
-git clone https://github.com/your-username/TrafficInsight.git
+git clone https://github.com/furiouskhan007/vehicle-monitoring.git 
 cd TrafficInsight
 ```
 ### Step 2: Download Weights
 ```bash
 Download YOLOv8 weights → yolov8n.pt
-Place it in the root directory
-Download DeepSort checkpoint weights → Google Drive Link
+Place it in the root directory 
+Download DeepSort checkpoint weights → Google Drive Link [ckpt.t7](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6)
 Place inside:
 vehicle-monitoring-main/deep_sort_pytorch/deep_sort/deep/checkpoint/
 ```
