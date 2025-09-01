@@ -23,7 +23,7 @@ TrafficInsight is a real-time vehicle monitoring system that allows **ROI (Regio
 ---
 
 ## 🚀 How to Run  
----
+
 ### Step 1: Clone or Download Repository  
 ```bash
 git clone https://github.com/furiouskhan007/vehicle-monitoring.git 
