@@ -1,7 +1,13 @@
 # TrafficInsight
 YOLOv8, DeepSort, OpenV and Flask
-FEature ROI selection by mouse click 
-* Python 3.11.5
+Feature ROI selection by mouse click and store the data into CSV file.
+Clicks works in this sequences North, South, East, West
+
+ID	Type	Entry Point	Exit Point	Entry Time
+10	car	north	        west	      10:31.7
+
+
+# Python 3.11.5
 ## How to run:
 Step 1:
 clone/download the repository the repository
