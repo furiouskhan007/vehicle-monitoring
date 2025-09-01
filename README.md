@@ -23,7 +23,7 @@ TrafficInsight is a real-time vehicle monitoring system that allows **ROI (Regio
 ---
 
 ## 🚀 How to Run  
-
+---
 ### Step 1: Clone or Download Repository  
 ```bash
 git clone https://github.com/furiouskhan007/vehicle-monitoring.git 
@@ -44,14 +44,14 @@ Step 4: Run the Application
 ```bash
 python app.py
 ```
-
+---
 ### 🛠️ Tech Stack
 
 - YOLOv8
 - DeepSort for object tracking
 - OpenCV for computer vision
 - Flask for web integration
-
+---
 ### 📌 Notes
 Follow the click sequence strictly: North → South → East → West
 North/South clicks are drawn from the top side
