@@ -53,6 +53,13 @@ python app.py
 - Flask for web integration
 ---
 ### 📌 Notes
-Follow the click sequence strictly: North → South → East → West
-North/South clicks are drawn from the top side
-East/West clicks are drawn from the bottom side
+Follow the click sequence strictly: 
+- **North Entry ⬇️ South Exit ⬇️** → from the **top side**  
+- **East Entry ⬆️ West Exit ⬆️** → from the **bottom side**
+
+![Capture1](https://github.com/user-attachments/assets/0dfc04c1-7ffa-4963-98f3-dbaa56ef0ff4)
+![Capture2](https://github.com/user-attachments/assets/06a2b264-7c76-4422-8568-df759cbdb53c)
+![Capture4](https://github.com/user-attachments/assets/c824d5f6-fb49-4560-99f9-43ed97696629)
+![Capture3](https://github.com/user-attachments/assets/778e973f-d98e-4bf5-b590-5fa7ed4a90e1)
+![Capture5](https://github.com/user-attachments/assets/feba4b42-3d98-4ea3-aabe-2cb6eed6df23)
+![Capture6](https://github.com/user-attachments/assets/dabd2a4a-ba50-42fc-9d63-dae6cc7b7856)
