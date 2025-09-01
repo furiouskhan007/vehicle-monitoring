@@ -1,6 +1,6 @@
 # TrafficInsight
-using YOLOv8, DeepSort, OpenV and Flask
-
+YOLOv8, DeepSort, OpenV and Flask
+FEature ROI selection by mouse click 
 * Python 3.11.5
 ## How to run:
 Step 1:
